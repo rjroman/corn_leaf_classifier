@@ -1,18 +1,17 @@
 Image Classifier Web Application using Flask
-
-This repository contains the code for an image classifier web application built using Flask, a lightweight web framework in Python, and PyTorch, a deep learning framework. The application uses a pre-trained ResNet18 model for image classification tasks.
+This GitHub repository hosts the code for an image classifier web application developed using Flask, a lightweight Python web framework, and PyTorch, a powerful deep learning library. The application leverages a pre-trained ResNet18 model for efficient and accurate image classification tasks.
 
 Key Features:
 
-User-friendly Interface: Upload an image through the web interface to get real-time predictions.
-State-of-the-Art Model: Utilizes a ResNet18 model trained on a large dataset for accurate image classification.
-Efficient Deployment: Easy to deploy on local machines or cloud platforms for quick testing and deployment.
+User-friendly Interface: Experience seamless image uploads and receive real-time predictions via the intuitive web interface.
+State-of-the-Art Model: Benefit from the advanced capabilities of a ResNet18 model, meticulously trained on extensive datasets, ensuring top-tier image classification accuracy.
+Efficient Deployment: Easily deploy the application on local machines or cloud platforms for swift testing and deployment, ensuring hassle-free integration into your workflow.
 How to Use:
 
-Clone the repository to your local machine.
-Install the required dependencies using pip install -r requirements.txt.
-Run the Flask application using python app.py.
-Access the web interface via a web browser and upload an image for classification.
+Clone the Repository: Begin by cloning the repository to your local machine.
+Install Dependencies: Utilize pip install -r requirements.txt to effortlessly install the necessary dependencies.
+Run the Flask Application: Execute python app.py to launch the Flask application.
+Access the Web Interface: Navigate to your preferred web browser and access the web interface to upload an image for classification.
 Dependencies:
 
 Flask
@@ -21,10 +20,13 @@ torchvision
 NumPy
 Pillow
 Contributing:
-Contributions are welcome! Feel free to submit bug reports, feature requests, or pull requests to help improve this project.
-link for dataset:
 
-https://drive.google.com/drive/folders/1mQux3ny6jRC5mm4MTh-Q5ntRaUg6t67f?usp=drive_link
+Contributions are highly encouraged and welcomed! Whether it's bug reports, feature requests, or pull requests, your input is invaluable in enhancing this project.
+
+Dataset Link:
+
+Access the dataset here.
 
 License:
-This project is licensed under the MIT License - see the LICENSE file for details.
+
+This project is licensed under the MIT License. Refer to the LICENSE file for more details.
